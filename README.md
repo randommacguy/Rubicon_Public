@@ -3,7 +3,7 @@
 <img align="left" img width="200" height="200" src="https://user-images.githubusercontent.com/11162477/55240447-d0699900-5230-11e9-9ad1-27a682eb1132.png">
 <br/>
 
-# Rubicon Public Repositorie
+# Rubicon Public Repository
 <br/><br/><br/>
 
 ## Purpose
